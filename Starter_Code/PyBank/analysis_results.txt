@@ -1,0 +1,6 @@
+The budget data csv file has been analysed and produced the following results:
+Total number of months in the dataset: $86
+The net total amount of Profit/Losses is: $22564198
+Greatest Increase in Profits: Mar-13, $1141840
+Greatest Decrease in Profits: Dec-10, $-1194133
+The changes in profit/losses over the entire period is: $-8311.11
